@@ -5,3 +5,4 @@ pytest-cov
 pytest-httpbin>=0.0.6
 docutils
 wheel
+werkzeug>=3.0.3 # not directly required, pinned by Snyk to avoid a vulnerability
